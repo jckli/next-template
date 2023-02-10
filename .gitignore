@@ -22,6 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 bun.lockb
+.vscode
 
 # local env files
 .env.local
@@ -37,3 +38,4 @@ bun.lockb
 
 # typescript
 *.tsbuildinfo
+package-lock.json
