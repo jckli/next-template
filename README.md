@@ -1,4 +1,4 @@
-# jckli's next.js template (next.js 13)
+# jckli's next.js template (next.js 14)
 
 Next.js boilerplate using TypeScript containing useful packages. Bit opinionated but barebones, nice, and simple to help get started with projects.
 
